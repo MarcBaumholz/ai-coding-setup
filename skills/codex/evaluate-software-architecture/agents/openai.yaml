@@ -1,0 +1,4 @@
+interface:
+  display_name: "Evaluate Software Architecture"
+  short_description: "Compare architecture options by trade-offs"
+  default_prompt: "Use $evaluate-software-architecture to compare architecture options against measurable drivers."

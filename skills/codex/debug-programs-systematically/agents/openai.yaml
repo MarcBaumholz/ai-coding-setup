@@ -1,0 +1,4 @@
+interface:
+  display_name: "Debug Programs Systematically"
+  short_description: "Debug failures with controlled evidence"
+  default_prompt: "Use $debug-programs-systematically to reproduce, reduce, explain, and verify this failure."

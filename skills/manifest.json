@@ -1,0 +1,979 @@
+{
+  "schema_version": 1,
+  "export_date": "2026-10-12",
+  "scope": "14 selected coding and factory skills in 15 folders, including separate Ponytail variants. Private design-system material and broad catalogue data are excluded.",
+  "bundle_count": 15,
+  "file_count": 80,
+  "bundles": [
+    {
+      "path": "skills/codex/debug-programs-systematically",
+      "namespace": "codex",
+      "name": "debug-programs-systematically",
+      "source_location": "~/.codex/skills/debug-programs-systematically",
+      "source": "not-recorded",
+      "entry_source_sha256": "7c9277f009451cdd949406a3ac085153d611db139477fd4547c33fa786c5b1a3",
+      "licence_files": [],
+      "licence_status": "No licence recorded in source; no new licence assigned",
+      "changed_files": [
+        "SKILL.md",
+        "references/principles.md"
+      ],
+      "omitted_files": [],
+      "frontmatter_keys": [
+        "name",
+        "description"
+      ]
+    },
+    {
+      "path": "skills/codex/design-deep-modules",
+      "namespace": "codex",
+      "name": "design-deep-modules",
+      "source_location": "~/.codex/skills/design-deep-modules",
+      "source": "not-recorded",
+      "entry_source_sha256": "cbf84e947ea937ba2bc1fa64f21d60b6868e4eab991fb0a4d4b03dc1f4633dad",
+      "licence_files": [],
+      "licence_status": "No licence recorded in source; no new licence assigned",
+      "changed_files": [
+        "SKILL.md",
+        "references/principles.md"
+      ],
+      "omitted_files": [],
+      "frontmatter_keys": [
+        "name",
+        "description"
+      ]
+    },
+    {
+      "path": "skills/codex/develop-things",
+      "namespace": "codex",
+      "name": "develop-things",
+      "source_location": "~/.codex/skills/develop-things",
+      "source": "not-recorded",
+      "entry_source_sha256": "6c61fca7c0c348c9acf9ebef42e37cf6b26e0dba971d8898eaaab6bcf6a18df2",
+      "licence_files": [],
+      "licence_status": "No licence recorded in source; no new licence assigned",
+      "changed_files": [
+        "SKILL.md"
+      ],
+      "omitted_files": [],
+      "frontmatter_keys": [
+        "name",
+        "description"
+      ]
+    },
+    {
+      "path": "skills/codex/evaluate-software-architecture",
+      "namespace": "codex",
+      "name": "evaluate-software-architecture",
+      "source_location": "~/.codex/skills/evaluate-software-architecture",
+      "source": "not-recorded",
+      "entry_source_sha256": "c30afd74fc0fc7d1d3e1c059abfa9da2c023c9a0cea8a3f3e541cec7d5821231",
+      "licence_files": [],
+      "licence_status": "No licence recorded in source; no new licence assigned",
+      "changed_files": [
+        "SKILL.md",
+        "references/principles.md"
+      ],
+      "omitted_files": [],
+      "frontmatter_keys": [
+        "name",
+        "description"
+      ]
+    },
+    {
+      "path": "skills/codex/ponytail",
+      "namespace": "codex",
+      "name": "ponytail",
+      "source_location": "~/.codex/skills/ponytail",
+      "source": "https://github.com/DietrichGebert/ponytail",
+      "entry_source_sha256": "d11df477b1a4e807155a7e578b135a4d9c52beef06eb3a44322940c331a06942",
+      "licence_files": [
+        "LICENSE"
+      ],
+      "licence_status": "Existing terms retained",
+      "changed_files": [
+        "SKILL.md"
+      ],
+      "omitted_files": [],
+      "frontmatter_keys": [
+        "name",
+        "description",
+        "argument-hint",
+        "license"
+      ]
+    },
+    {
+      "path": "skills/codex/refactor-safely",
+      "namespace": "codex",
+      "name": "refactor-safely",
+      "source_location": "~/.codex/skills/refactor-safely",
+      "source": "not-recorded",
+      "entry_source_sha256": "33b869da5675dc1722061a62bbfaf87a1e7cf276b7bb6eaa15437e73c76ed4fb",
+      "licence_files": [],
+      "licence_status": "No licence recorded in source; no new licence assigned",
+      "changed_files": [
+        "SKILL.md",
+        "references/principles.md"
+      ],
+      "omitted_files": [],
+      "frontmatter_keys": [
+        "name",
+        "description"
+      ]
+    },
+    {
+      "path": "skills/coachbot/stress-test",
+      "namespace": "coachbot",
+      "name": "stress-test",
+      "source_location": "~/.claude/skills/stress-test",
+      "source": "not-recorded",
+      "entry_source_sha256": "486b71dcd6e94589cd1a480748d48f43b1820fa3769ad7a63199e131d111698d",
+      "licence_files": [],
+      "licence_status": "No licence recorded in source; no new licence assigned",
+      "changed_files": [
+        "ENVIRONMENT.md",
+        "SKILL.md"
+      ],
+      "omitted_files": [],
+      "frontmatter_keys": [
+        "name",
+        "description",
+        "argument-hint"
+      ]
+    },
+    {
+      "path": "skills/coachbot/brainstorming",
+      "namespace": "coachbot",
+      "name": "brainstorming",
+      "source_location": "~/Documents/Coachbot_dev/.claude/skills/brainstorming",
+      "source": "not-recorded",
+      "entry_source_sha256": "4c34146fc26b9a2ac07d942ec02fdd326b622f1b0e4f598818b7289ef8886c12",
+      "licence_files": [],
+      "licence_status": "No licence recorded in source; no new licence assigned",
+      "changed_files": [
+        "SKILL.md"
+      ],
+      "omitted_files": [],
+      "frontmatter_keys": [
+        "name",
+        "description",
+        "version"
+      ]
+    },
+    {
+      "path": "skills/coachbot/full-review",
+      "namespace": "coachbot",
+      "name": "full-review",
+      "source_location": "~/Documents/Coachbot_dev/.claude/skills/full-review",
+      "source": "not-recorded",
+      "entry_source_sha256": "4617b31b2647368b7aaabf08512fdae7fdc386965fb0a33f8f9c28c98eae096a",
+      "licence_files": [],
+      "licence_status": "No licence recorded in source; no new licence assigned",
+      "changed_files": [
+        "SKILL.md",
+        "references/coachbot-security-checklist.md",
+        "route.test.sh"
+      ],
+      "omitted_files": [
+        {
+          "path": "greptile/JUDGE.md",
+          "reason": "Private incident/review history and reporting configuration"
+        },
+        {
+          "path": "greptile/LOOP.md",
+          "reason": "Private incident/review history and reporting configuration"
+        },
+        {
+          "path": "greptile/harvest.py",
+          "reason": "Private incident/review history and reporting configuration"
+        },
+        {
+          "path": "greptile/loop_report.py",
+          "reason": "Private incident/review history and reporting configuration"
+        },
+        {
+          "path": "greptile/patterns.md",
+          "reason": "Private incident/review history and reporting configuration"
+        },
+        {
+          "path": "greptile/review_cost.py",
+          "reason": "Private incident/review history and reporting configuration"
+        },
+        {
+          "path": "greptile/score_replay.py",
+          "reason": "Private incident/review history and reporting configuration"
+        },
+        {
+          "path": "greptile/score_replay.test.sh",
+          "reason": "Private incident/review history and reporting configuration"
+        }
+      ],
+      "frontmatter_keys": [
+        "name",
+        "description"
+      ]
+    },
+    {
+      "path": "skills/coachbot/ponytail",
+      "namespace": "coachbot",
+      "name": "ponytail",
+      "source_location": "~/Documents/Coachbot_dev/.claude/skills/ponytail",
+      "source": "https://github.com/DietrichGebert/ponytail",
+      "entry_source_sha256": "a26c542eab03a655f848d465a41c12947a80eb4152862171b2df6f41c36379b7",
+      "licence_files": [
+        "LICENSE"
+      ],
+      "licence_status": "Existing terms retained",
+      "changed_files": [
+        "SKILL.md"
+      ],
+      "omitted_files": [],
+      "frontmatter_keys": [
+        "name",
+        "description",
+        "argument-hint",
+        "license"
+      ]
+    },
+    {
+      "path": "skills/coachbot/second-opinion",
+      "namespace": "coachbot",
+      "name": "second-opinion",
+      "source_location": "~/Documents/Coachbot_dev/.claude/skills/second-opinion",
+      "source": "not-recorded",
+      "entry_source_sha256": "c33258f80393d73ec1598ffdb52e602d8f16c818a441d7e807901fb4191bec64",
+      "licence_files": [],
+      "licence_status": "No licence recorded in source; no new licence assigned",
+      "changed_files": [
+        "SKILL.md"
+      ],
+      "omitted_files": [],
+      "frontmatter_keys": [
+        "name",
+        "description"
+      ]
+    },
+    {
+      "path": "skills/coachbot/software-factory",
+      "namespace": "coachbot",
+      "name": "software-factory",
+      "source_location": "~/Documents/Coachbot_dev/.claude/skills/software-factory",
+      "source": "not-recorded",
+      "entry_source_sha256": "4541452b37af3fe885de6c8944571e70933a58806c2e3ccb6ec20ddfc083f366",
+      "licence_files": [],
+      "licence_status": "No licence recorded in source; no new licence assigned",
+      "changed_files": [
+        "SKILL.md",
+        "gates/gate-1-scope.md",
+        "phases/0-understand.md",
+        "phases/2-build.md",
+        "phases/3-verify.md",
+        "phases/4-parity.md",
+        "phases/7-ship.md",
+        "references/books/clean-architecture.md",
+        "references/books/fundamentals-of-software-architecture.md",
+        "references/doctrine/ci-cd-doctrine.md",
+        "references/doctrine/coachbot-invariants.md",
+        "references/plan/design-checklist.md",
+        "references/plan/test-generators.md",
+        "roles.md",
+        "templates/progress.md"
+      ],
+      "omitted_files": [
+        {
+          "path": "DESIGN-NOTES.md",
+          "reason": "Internal development notes"
+        }
+      ],
+      "frontmatter_keys": [
+        "name",
+        "description",
+        "version"
+      ]
+    },
+    {
+      "path": "skills/coachbot/thermo-nuclear-code-quality-review",
+      "namespace": "coachbot",
+      "name": "thermo-nuclear-code-quality-review",
+      "source_location": "~/Documents/Coachbot_dev/.claude/skills/thermo-nuclear-code-quality-review",
+      "source": "not-recorded",
+      "entry_source_sha256": "596d91a5a5ae11e388ba43fd729aa6650a297d4570e55d8428ae8b93066a7f0d",
+      "licence_files": [],
+      "licence_status": "No licence recorded in source; no new licence assigned",
+      "changed_files": [
+        "SKILL.md"
+      ],
+      "omitted_files": [],
+      "frontmatter_keys": [
+        "name",
+        "description",
+        "disable-model-invocation"
+      ]
+    },
+    {
+      "path": "skills/coachbot/verification-loop",
+      "namespace": "coachbot",
+      "name": "verification-loop",
+      "source_location": "~/Documents/Coachbot_dev/.claude/skills/verification-loop",
+      "source": "not-recorded",
+      "entry_source_sha256": "ce3f947938f2d494ccd2fb140202bb7c2a873198316fdef696ce788f60c36a42",
+      "licence_files": [],
+      "licence_status": "No licence recorded in source; no new licence assigned",
+      "changed_files": [
+        "SKILL.md",
+        "references/gates-6-11.md"
+      ],
+      "omitted_files": [],
+      "frontmatter_keys": [
+        "name",
+        "description",
+        "version"
+      ]
+    },
+    {
+      "path": "skills/coachbot/verify-loop",
+      "namespace": "coachbot",
+      "name": "verify-loop",
+      "source_location": "~/Documents/Coachbot_dev/.claude/skills/verify-loop",
+      "source": "not-recorded",
+      "entry_source_sha256": "a8eef5f0c55bfd42cee62dc5166cc36bd2662e9debba7da098f4820cf5b04b16",
+      "licence_files": [],
+      "licence_status": "No licence recorded in source; no new licence assigned",
+      "changed_files": [
+        "SKILL.md"
+      ],
+      "omitted_files": [],
+      "frontmatter_keys": [
+        "name",
+        "description",
+        "version"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "path": "skills/codex/debug-programs-systematically/SKILL.md",
+      "source_sha256": "7c9277f009451cdd949406a3ac085153d611db139477fd4547c33fa786c5b1a3",
+      "published_sha256": "6858f504fce3e8c1686743b15bd972561a4c7865f263f51a9ac8b4fa95e30286",
+      "changes": [
+        "Added a publication/source note after the original frontmatter"
+      ]
+    },
+    {
+      "path": "skills/codex/debug-programs-systematically/agents/openai.yaml",
+      "source_sha256": "b9e9ae4a2ec6c3b2ff02994fa0e16fd3b91d999053fa9a7c99d33c41f3cc8c65",
+      "published_sha256": "b9e9ae4a2ec6c3b2ff02994fa0e16fd3b91d999053fa9a7c99d33c41f3cc8c65",
+      "changes": []
+    },
+    {
+      "path": "skills/codex/debug-programs-systematically/references/codebase-playbook.md",
+      "source_sha256": "d5f9c59a811ae3ac85617c153a585838ad9a09b5c5688bd41e2712885ff930b7",
+      "published_sha256": "d5f9c59a811ae3ac85617c153a585838ad9a09b5c5688bd41e2712885ff930b7",
+      "changes": []
+    },
+    {
+      "path": "skills/codex/debug-programs-systematically/references/principles.md",
+      "source_sha256": "6aa1f30ea519a37292f29531abc2e93f21a9c381abec94295a1822b405d06b36",
+      "published_sha256": "433b815698bdd29742500a00fa4dfeaa0e077679ef1984c14e306db5d1b766b7",
+      "changes": [
+        "Removed private reading-source filename"
+      ]
+    },
+    {
+      "path": "skills/codex/design-deep-modules/SKILL.md",
+      "source_sha256": "cbf84e947ea937ba2bc1fa64f21d60b6868e4eab991fb0a4d4b03dc1f4633dad",
+      "published_sha256": "16754e3463112c9203a2fc8af2da142022c1d3975fe83cf88e4919395aecc797",
+      "changes": [
+        "Added a publication/source note after the original frontmatter"
+      ]
+    },
+    {
+      "path": "skills/codex/design-deep-modules/agents/openai.yaml",
+      "source_sha256": "9fb3af24363d90b8ad7dab98149b59a3edefd37f1a7e1688fe2fc5016c194e0f",
+      "published_sha256": "9fb3af24363d90b8ad7dab98149b59a3edefd37f1a7e1688fe2fc5016c194e0f",
+      "changes": []
+    },
+    {
+      "path": "skills/codex/design-deep-modules/references/codebase-playbook.md",
+      "source_sha256": "2ab77a81974ca9527d849a7083defd110cb9fa021b89e1fd66395084e166bed4",
+      "published_sha256": "2ab77a81974ca9527d849a7083defd110cb9fa021b89e1fd66395084e166bed4",
+      "changes": []
+    },
+    {
+      "path": "skills/codex/design-deep-modules/references/principles.md",
+      "source_sha256": "bd5c26d919e345739beb27b3007e8a8a227ab54db39b656ed812b51e4e465c37",
+      "published_sha256": "57d073eddf5ebb4de5f4e468a614499d4b14f75b6523609b6dfa088fd925539d",
+      "changes": [
+        "Normalised private filesystem paths",
+        "Removed private reading-source filename"
+      ]
+    },
+    {
+      "path": "skills/codex/develop-things/SKILL.md",
+      "source_sha256": "6c61fca7c0c348c9acf9ebef42e37cf6b26e0dba971d8898eaaab6bcf6a18df2",
+      "published_sha256": "0702485b176d8dbfeaf5a4b6193786f0fb1a1df93f16b670820a2fbf07ec3014",
+      "changes": [
+        "Added a publication/source note after the original frontmatter"
+      ]
+    },
+    {
+      "path": "skills/codex/evaluate-software-architecture/SKILL.md",
+      "source_sha256": "c30afd74fc0fc7d1d3e1c059abfa9da2c023c9a0cea8a3f3e541cec7d5821231",
+      "published_sha256": "da0f24468db0ea33389331bdc1e50d916dcc1c8fb9b680f26fb0b33243482385",
+      "changes": [
+        "Added a publication/source note after the original frontmatter"
+      ]
+    },
+    {
+      "path": "skills/codex/evaluate-software-architecture/agents/openai.yaml",
+      "source_sha256": "2dbf4f14281daecf1b81bc69a93bcd9eba580da021b3d8925ecea3f4cc4fab01",
+      "published_sha256": "2dbf4f14281daecf1b81bc69a93bcd9eba580da021b3d8925ecea3f4cc4fab01",
+      "changes": []
+    },
+    {
+      "path": "skills/codex/evaluate-software-architecture/references/codebase-playbook.md",
+      "source_sha256": "c0529c481f856d32d07f1373806d1c041dc869e2c42418b26a174168054c6ac3",
+      "published_sha256": "c0529c481f856d32d07f1373806d1c041dc869e2c42418b26a174168054c6ac3",
+      "changes": []
+    },
+    {
+      "path": "skills/codex/evaluate-software-architecture/references/principles.md",
+      "source_sha256": "7548992ed659d95142094a0202d94a0730557d6d28e70e4b8bfd3812da2c1829",
+      "published_sha256": "4e300771a3892a0f9d46abe835864dcc3090dbb76ab7c64ff1ba1b4674bfecee",
+      "changes": [
+        "Removed private reading-source filename"
+      ]
+    },
+    {
+      "path": "skills/codex/ponytail/SKILL.md",
+      "source_sha256": "d11df477b1a4e807155a7e578b135a4d9c52beef06eb3a44322940c331a06942",
+      "published_sha256": "613265a04af3ee841b919c44ad1b2a739be23847d4298518874fef79b677f35c",
+      "changes": [
+        "Added a publication/source note after the original frontmatter"
+      ]
+    },
+    {
+      "path": "skills/codex/ponytail/LICENSE",
+      "source_sha256": "fb1bc6909ac3ef82d5c22106e32ef682b0cff66788fa915fb9b53b15c9d2f3ab",
+      "published_sha256": "fb1bc6909ac3ef82d5c22106e32ef682b0cff66788fa915fb9b53b15c9d2f3ab",
+      "changes": [],
+      "source_url": "https://github.com/DietrichGebert/ponytail/blob/main/LICENSE"
+    },
+    {
+      "path": "skills/codex/refactor-safely/SKILL.md",
+      "source_sha256": "33b869da5675dc1722061a62bbfaf87a1e7cf276b7bb6eaa15437e73c76ed4fb",
+      "published_sha256": "3cc26f404e21571d2b131013fe1490896a3bca5bc7ae3a3b50fd28fc77cf80cb",
+      "changes": [
+        "Added a publication/source note after the original frontmatter"
+      ]
+    },
+    {
+      "path": "skills/codex/refactor-safely/agents/openai.yaml",
+      "source_sha256": "32ad59b5f63c3d4643f066e269c634470a9766eb66e5772fb20bacb705cfc38a",
+      "published_sha256": "32ad59b5f63c3d4643f066e269c634470a9766eb66e5772fb20bacb705cfc38a",
+      "changes": []
+    },
+    {
+      "path": "skills/codex/refactor-safely/references/codebase-playbook.md",
+      "source_sha256": "3f7416f6fcd1ec61d3cd131efdd158727fda5674e85707d5a97b35a16cf83ef2",
+      "published_sha256": "3f7416f6fcd1ec61d3cd131efdd158727fda5674e85707d5a97b35a16cf83ef2",
+      "changes": []
+    },
+    {
+      "path": "skills/codex/refactor-safely/references/principles.md",
+      "source_sha256": "7668852bd4aff99c342bfa2419813db31c9d392aa86333fbff7608ae98eb3ac5",
+      "published_sha256": "cc529d786ff25eb76917a369e054739e41367fa0e5cc8f441dc8a2e2bfeb403a",
+      "changes": [
+        "Removed private reading-source filename"
+      ]
+    },
+    {
+      "path": "skills/coachbot/stress-test/ENVIRONMENT.md",
+      "source_sha256": "b9f01cf1981b631a000e4050e2944f8b9c83c10933d451ca0af9362d7c733a7a",
+      "published_sha256": "0c6a447b2abb9338477e9af0482ef7b8dba84147ba6ea82cf1acf40725265d92",
+      "changes": [
+        "Normalised private filesystem paths",
+        "Replaced project service addresses with a placeholder",
+        "Replaced addresses in examples with example.test"
+      ]
+    },
+    {
+      "path": "skills/coachbot/stress-test/LANES.md",
+      "source_sha256": "897eb4e115668573cdcc033f61e45af019cd370dfe900518000f5d5e364b314c",
+      "published_sha256": "897eb4e115668573cdcc033f61e45af019cd370dfe900518000f5d5e364b314c",
+      "changes": []
+    },
+    {
+      "path": "skills/coachbot/stress-test/SKILL.md",
+      "source_sha256": "486b71dcd6e94589cd1a480748d48f43b1820fa3769ad7a63199e131d111698d",
+      "published_sha256": "9993217c4d0c8ad3caf9fddc289d3e3b9886f20fff6d0f1be9ac8ee3f8e65d29",
+      "changes": [
+        "Normalised private filesystem paths",
+        "Replaced project service addresses with a placeholder",
+        "Added a publication/source note after the original frontmatter"
+      ]
+    },
+    {
+      "path": "skills/coachbot/brainstorming/SKILL.md",
+      "source_sha256": "4c34146fc26b9a2ac07d942ec02fdd326b622f1b0e4f598818b7289ef8886c12",
+      "published_sha256": "a870a8e0d3b153cab53f05108c1901d0eaca792ef22e88f7c29101fd86cde25a",
+      "changes": [
+        "Added a publication/source note after the original frontmatter"
+      ]
+    },
+    {
+      "path": "skills/coachbot/full-review/SKILL.md",
+      "source_sha256": "4617b31b2647368b7aaabf08512fdae7fdc386965fb0a33f8f9c28c98eae096a",
+      "published_sha256": "4abcc018d4446c2fe3f20bb96804a9810c970354d4019630671cb38f57986de1",
+      "changes": [
+        "Normalised private filesystem paths",
+        "Added a publication/source note after the original frontmatter"
+      ]
+    },
+    {
+      "path": "skills/coachbot/full-review/references/coachbot-security-checklist.md",
+      "source_sha256": "085104604d2c7db64fac27707f2f35268dc82b9eb95ed2a7510324c85d8da8f3",
+      "published_sha256": "8a62d8757cd13a5c8f6dc24b3bbb18068025746e7a3ee91147428eef43a2e358",
+      "changes": [
+        "Normalised private filesystem paths"
+      ]
+    },
+    {
+      "path": "skills/coachbot/full-review/route.sh",
+      "source_sha256": "80594e3caf80fac492870e886066848b78a30d4329cff0e8d56e52a4a9ed2bd2",
+      "published_sha256": "80594e3caf80fac492870e886066848b78a30d4329cff0e8d56e52a4a9ed2bd2",
+      "changes": []
+    },
+    {
+      "path": "skills/coachbot/full-review/route.test.sh",
+      "source_sha256": "e7982eb83a1796243f59320a07fc3cb3008c934f7f5889c165adcefb52ea5a52",
+      "published_sha256": "631e82b2934cef20962292ac0feaf4d8b05efd152a9177ef3761292078a7d91d",
+      "changes": [
+        "Replaced addresses in examples with example.test",
+        "Removed a private MR reference from a regression-case label"
+      ]
+    },
+    {
+      "path": "skills/coachbot/ponytail/SKILL.md",
+      "source_sha256": "a26c542eab03a655f848d465a41c12947a80eb4152862171b2df6f41c36379b7",
+      "published_sha256": "2786f47bebe7f75647a66a99f0080bf10f86e12d35343ca83aaf8005dee9d080",
+      "changes": [
+        "Added a publication/source note after the original frontmatter"
+      ]
+    },
+    {
+      "path": "skills/coachbot/ponytail/LICENSE",
+      "source_sha256": "fb1bc6909ac3ef82d5c22106e32ef682b0cff66788fa915fb9b53b15c9d2f3ab",
+      "published_sha256": "fb1bc6909ac3ef82d5c22106e32ef682b0cff66788fa915fb9b53b15c9d2f3ab",
+      "changes": [],
+      "source_url": "https://github.com/DietrichGebert/ponytail/blob/main/LICENSE"
+    },
+    {
+      "path": "skills/coachbot/second-opinion/SKILL.md",
+      "source_sha256": "c33258f80393d73ec1598ffdb52e602d8f16c818a441d7e807901fb4191bec64",
+      "published_sha256": "efa5ffb2188bc3f5a5d72fcab20ec10702aef6d88cf7ca96dacf9fac480305ab",
+      "changes": [
+        "Normalised private filesystem paths",
+        "Quoted an invalid source description in the exported YAML frontmatter",
+        "Added a publication/source note after the original frontmatter"
+      ]
+    },
+    {
+      "path": "skills/coachbot/software-factory/SKILL.md",
+      "source_sha256": "4541452b37af3fe885de6c8944571e70933a58806c2e3ccb6ec20ddfc083f366",
+      "published_sha256": "e9befa03f4f9eb338ba1c404fde18e026a8e59af746c0bf67e53438169a60ca0",
+      "changes": [
+        "Normalised private filesystem paths",
+        "Removed private issue identifiers",
+        "Added a publication/source note after the original frontmatter"
+      ]
+    },
+    {
+      "path": "skills/coachbot/software-factory/gates/gate-1-scope.md",
+      "source_sha256": "2dd4a3c0898c9a406cf169f098449ccd24634031670780232ec732635d19fe1e",
+      "published_sha256": "9fb88e8ecb659a5699ec0590f40f1022a4e1c6059c80303e232123cdb25c1490",
+      "changes": [
+        "Normalised private filesystem paths"
+      ]
+    },
+    {
+      "path": "skills/coachbot/software-factory/gates/gate-2-plan.md",
+      "source_sha256": "980921545b569fb7ee2a3adf69512f626eed655290f1d50e443194f721acb336",
+      "published_sha256": "980921545b569fb7ee2a3adf69512f626eed655290f1d50e443194f721acb336",
+      "changes": []
+    },
+    {
+      "path": "skills/coachbot/software-factory/gates/gate-3-quality.md",
+      "source_sha256": "01796531f7dc896ee45d548761df93102c45e12fc0e315f8c575296a6ee08c40",
+      "published_sha256": "01796531f7dc896ee45d548761df93102c45e12fc0e315f8c575296a6ee08c40",
+      "changes": []
+    },
+    {
+      "path": "skills/coachbot/software-factory/phases/0-understand.md",
+      "source_sha256": "9131dd62a5ac29e900d58a5fcc2ec1508955ae2c9f2ba3b098db5336fc3faace",
+      "published_sha256": "4e72b315078c7efbcb063691e99c25c997d98a2c6b388fcf0746c3de6310249f",
+      "changes": [
+        "Normalised private filesystem paths"
+      ]
+    },
+    {
+      "path": "skills/coachbot/software-factory/phases/1-plan.md",
+      "source_sha256": "9e032b58cb7ed384352d186e9f0b25a7b22042c3b79c9eecfb7f0b96fead1d48",
+      "published_sha256": "9e032b58cb7ed384352d186e9f0b25a7b22042c3b79c9eecfb7f0b96fead1d48",
+      "changes": []
+    },
+    {
+      "path": "skills/coachbot/software-factory/phases/2-build.md",
+      "source_sha256": "b9e447de4c17fd890dd3feec70c84b4831c586c5b50648e9aa97a4ccd153288c",
+      "published_sha256": "78d96dec92d07a5793f02d3e1e52d5484f9b3940f1efa8af2224a8b7e9fba968",
+      "changes": [
+        "Normalised private filesystem paths",
+        "Removed private issue identifiers"
+      ]
+    },
+    {
+      "path": "skills/coachbot/software-factory/phases/3-verify.md",
+      "source_sha256": "21a9f1016e436bb238f0e0356ec7c646c59506baab8348fa975a664952028f3b",
+      "published_sha256": "d2cd28e4e9cf3be2c114a01581be4068c43fee65623a44d18bfafa37b9378d06",
+      "changes": [
+        "Normalised private filesystem paths"
+      ]
+    },
+    {
+      "path": "skills/coachbot/software-factory/phases/4-parity.md",
+      "source_sha256": "064534ec5a6b5608ee14f4aa41a8ed9ee8d00121c53419f4d106cd5a18309b30",
+      "published_sha256": "5cba6bde8e1718bf4a503e9453191e2cd58a77e0f23195f386ff8b72e8f323f0",
+      "changes": [
+        "Normalised private filesystem paths"
+      ]
+    },
+    {
+      "path": "skills/coachbot/software-factory/phases/5-review.md",
+      "source_sha256": "49807ccfba36ec37234b9e3344cf6833221825b829dd835ab7ba574d59b72e28",
+      "published_sha256": "49807ccfba36ec37234b9e3344cf6833221825b829dd835ab7ba574d59b72e28",
+      "changes": []
+    },
+    {
+      "path": "skills/coachbot/software-factory/phases/6-qa-stress.md",
+      "source_sha256": "31b2c188c0517a26c15d23ca7bd8bca037d4cbe40d42947487a7e568d0334eab",
+      "published_sha256": "31b2c188c0517a26c15d23ca7bd8bca037d4cbe40d42947487a7e568d0334eab",
+      "changes": []
+    },
+    {
+      "path": "skills/coachbot/software-factory/phases/7-ship.md",
+      "source_sha256": "2dd30910f9e39fe8bf06a66c4a0141643a617bd794ca1e9c8b28e9c2a83c9fd4",
+      "published_sha256": "262436c3aefeb19a97f5ff982b6c2d3ce4df33ce60e1f4f4d8dad5800e0084ca",
+      "changes": [
+        "Replaced project service addresses with a placeholder"
+      ]
+    },
+    {
+      "path": "skills/coachbot/software-factory/references/books/beyond-vibe-coding.md",
+      "source_sha256": "e0fcf2c619a0a8b52ae9d7b36fbd15e3b607e92a989fcffdf283c4cbce333625",
+      "published_sha256": "e0fcf2c619a0a8b52ae9d7b36fbd15e3b607e92a989fcffdf283c4cbce333625",
+      "changes": []
+    },
+    {
+      "path": "skills/coachbot/software-factory/references/books/clean-architecture.md",
+      "source_sha256": "3caafcfee62458fb32ff061a0241ed0445b6123843f215c85362005f96a61e7a",
+      "published_sha256": "05b4f5d8c125b502f0bef72817362311a10b1353042f87cacb3a3248f2bcb98d",
+      "changes": [
+        "Normalised private filesystem paths"
+      ]
+    },
+    {
+      "path": "skills/coachbot/software-factory/references/books/clean-code.md",
+      "source_sha256": "143b7158abb0b67dc321c47436fc4c9018abeffe451fd219b61b252b4f356986",
+      "published_sha256": "143b7158abb0b67dc321c47436fc4c9018abeffe451fd219b61b252b4f356986",
+      "changes": []
+    },
+    {
+      "path": "skills/coachbot/software-factory/references/books/designing-data-intensive-applications.md",
+      "source_sha256": "3544345d021bc72a708db2b50954d1f3d256d49ff4a004db10bfd3cca77f7a09",
+      "published_sha256": "3544345d021bc72a708db2b50954d1f3d256d49ff4a004db10bfd3cca77f7a09",
+      "changes": []
+    },
+    {
+      "path": "skills/coachbot/software-factory/references/books/effective-engineer.md",
+      "source_sha256": "c6ad67475a138ca7ed355d92de3f78e19427abc840d6c1414d0ecee110bd57a1",
+      "published_sha256": "c6ad67475a138ca7ed355d92de3f78e19427abc840d6c1414d0ecee110bd57a1",
+      "changes": []
+    },
+    {
+      "path": "skills/coachbot/software-factory/references/books/fundamentals-of-software-architecture.md",
+      "source_sha256": "af3005345ec879fd63d56adcdc819e250fe4de690f1e34ca836c458e6e247708",
+      "published_sha256": "90cfbfc2f355cc99d58961a8ec3452799f0fdd4a10f4844803a73700191c35fe",
+      "changes": [
+        "Normalised private filesystem paths"
+      ]
+    },
+    {
+      "path": "skills/coachbot/software-factory/references/books/legacy-code-feathers.md",
+      "source_sha256": "eac323e93a28de934ebbebfd942182ff39676ff4f56ddd99bb5c27b97340241c",
+      "published_sha256": "eac323e93a28de934ebbebfd942182ff39676ff4f56ddd99bb5c27b97340241c",
+      "changes": []
+    },
+    {
+      "path": "skills/coachbot/software-factory/references/books/mythical-man-month.md",
+      "source_sha256": "5f9fa9590fb8458c9e98b23fb771d2389e8845c83d53c0456ada15d2ba99b8ff",
+      "published_sha256": "5f9fa9590fb8458c9e98b23fb771d2389e8845c83d53c0456ada15d2ba99b8ff",
+      "changes": []
+    },
+    {
+      "path": "skills/coachbot/software-factory/references/books/philosophy-of-software-design.md",
+      "source_sha256": "eb3b4f4af967eabd9abe94b01ddc88025a0882bb2050444434042fec3ced14c7",
+      "published_sha256": "eb3b4f4af967eabd9abe94b01ddc88025a0882bb2050444434042fec3ced14c7",
+      "changes": []
+    },
+    {
+      "path": "skills/coachbot/software-factory/references/books/refactoring-fowler.md",
+      "source_sha256": "ea8d8583c02b7e796beb73ca3c823ae3754113522736af458133893e0dd0ac5c",
+      "published_sha256": "ea8d8583c02b7e796beb73ca3c823ae3754113522736af458133893e0dd0ac5c",
+      "changes": []
+    },
+    {
+      "path": "skills/coachbot/software-factory/references/doctrine/ci-cd-doctrine.md",
+      "source_sha256": "a397397b0df22d255c5e8bd87a3134c14e472543e6e2a6cdb428c2fec63d499b",
+      "published_sha256": "e035d4ee9fd6c43efc810377e36713f29c41397ce2bb0d9fa71bf194b0df800d",
+      "changes": [
+        "Replaced project service addresses with a placeholder"
+      ]
+    },
+    {
+      "path": "skills/coachbot/software-factory/references/doctrine/coachbot-invariants.md",
+      "source_sha256": "9a18133154052418beb9421df817deb0b33b3e8d42715a8199f0eb3156fc16da",
+      "published_sha256": "84b602c61e8f3f60a40642cafe32b0af30fea0dd7daff2b5913070f106cb9300",
+      "changes": [
+        "Replaced private application invariants with a project-configuration checklist"
+      ]
+    },
+    {
+      "path": "skills/coachbot/software-factory/references/doctrine/house-rules.md",
+      "source_sha256": "0f1739ecd75178e55011320078f501699c40db29b916fa14b82493ed2cc93b1e",
+      "published_sha256": "0f1739ecd75178e55011320078f501699c40db29b916fa14b82493ed2cc93b1e",
+      "changes": []
+    },
+    {
+      "path": "skills/coachbot/software-factory/references/doctrine/loops.md",
+      "source_sha256": "d62530d7f4b7d5f6639e0b6b64915b2ec2685c0eb2d51e7c7f2f003a2c3e2dec",
+      "published_sha256": "d62530d7f4b7d5f6639e0b6b64915b2ec2685c0eb2d51e7c7f2f003a2c3e2dec",
+      "changes": []
+    },
+    {
+      "path": "skills/coachbot/software-factory/references/doctrine/security-doctrine.md",
+      "source_sha256": "3303320ad35fdd54f5219d3692c0ac578c22d8b276bec38c3c74c133d34fcf1f",
+      "published_sha256": "3303320ad35fdd54f5219d3692c0ac578c22d8b276bec38c3c74c133d34fcf1f",
+      "changes": []
+    },
+    {
+      "path": "skills/coachbot/software-factory/references/doctrine/testing-doctrine.md",
+      "source_sha256": "a4de3753ce8ed3f267c2946aec5d3ba692753170aae3e0240c4feac3d342adb2",
+      "published_sha256": "a4de3753ce8ed3f267c2946aec5d3ba692753170aae3e0240c4feac3d342adb2",
+      "changes": []
+    },
+    {
+      "path": "skills/coachbot/software-factory/references/plan/design-checklist.md",
+      "source_sha256": "75a2191d718b62baa2a528052eed52d13312d32e32fe2ef960078e6ee9904b0c",
+      "published_sha256": "0882a3f83fbd01ae714708a08900235a746e05dac6b8d7ff7bde7d43536aa731",
+      "changes": [
+        "Normalised private filesystem paths"
+      ]
+    },
+    {
+      "path": "skills/coachbot/software-factory/references/plan/test-generators.md",
+      "source_sha256": "cc4ad93c9ad618244be6c03e2e3bcc7f0be37b7b9d7e45b5d3251e14820a7422",
+      "published_sha256": "48e1e1ad93ffcd78deec48b629cf6ef028feaa9e7a8b1d31ed542622f19c6d38",
+      "changes": [
+        "Normalised private filesystem paths"
+      ]
+    },
+    {
+      "path": "skills/coachbot/software-factory/roles.md",
+      "source_sha256": "c3dd1b762851e6acdf3c939edaa3b00bf5d153708064691c0ce1c07c067d13df",
+      "published_sha256": "a5c67c6450e4c3c58151af97ca34cc68d4e8c94c2b13e812ff15649ca90581c0",
+      "changes": [
+        "Normalised private filesystem paths"
+      ]
+    },
+    {
+      "path": "skills/coachbot/software-factory/scripts/factory-guard.sh",
+      "source_sha256": "78bbd97411c2b4ea41c1401f54a459e20fc42c4604c4f6aa8de33c47da83aefe",
+      "published_sha256": "78bbd97411c2b4ea41c1401f54a459e20fc42c4604c4f6aa8de33c47da83aefe",
+      "changes": []
+    },
+    {
+      "path": "skills/coachbot/software-factory/scripts/factory-guard.test.sh",
+      "source_sha256": "e4e19c601710913886552d54ac3aeafa144c3783874d0e5714b051260cb17ecb",
+      "published_sha256": "e4e19c601710913886552d54ac3aeafa144c3783874d0e5714b051260cb17ecb",
+      "changes": []
+    },
+    {
+      "path": "skills/coachbot/software-factory/scripts/parity-diff.mjs",
+      "source_sha256": "acf8088efaf1f8b89e625ae0c542a1dc984cdf7077f127c2409fc69cd4c8ebf7",
+      "published_sha256": "acf8088efaf1f8b89e625ae0c542a1dc984cdf7077f127c2409fc69cd4c8ebf7",
+      "changes": []
+    },
+    {
+      "path": "skills/coachbot/software-factory/scripts/parity-diff.test.mjs",
+      "source_sha256": "9753dde0b7fa352f4ac82427ce72c8e51a807134d89e83f246985fe123ad8d5a",
+      "published_sha256": "9753dde0b7fa352f4ac82427ce72c8e51a807134d89e83f246985fe123ad8d5a",
+      "changes": []
+    },
+    {
+      "path": "skills/coachbot/software-factory/scripts/runners/node-test.sh",
+      "source_sha256": "8254ec4c82a510f8b475e5d98088f05d373ad6f8472b0c74fec398da046c24ae",
+      "published_sha256": "8254ec4c82a510f8b475e5d98088f05d373ad6f8472b0c74fec398da046c24ae",
+      "changes": []
+    },
+    {
+      "path": "skills/coachbot/software-factory/scripts/runners/vitest.sh",
+      "source_sha256": "c117c6e4947beaa4d85573f50be872d66da88aa9dff232be098f20cf0899edf9",
+      "published_sha256": "c117c6e4947beaa4d85573f50be872d66da88aa9dff232be098f20cf0899edf9",
+      "changes": []
+    },
+    {
+      "path": "skills/coachbot/software-factory/templates/adr.md",
+      "source_sha256": "78d87b4012ccae027fda4317a539a85d1b941192a0e08c1abf8052bd50e4042c",
+      "published_sha256": "78d87b4012ccae027fda4317a539a85d1b941192a0e08c1abf8052bd50e4042c",
+      "changes": []
+    },
+    {
+      "path": "skills/coachbot/software-factory/templates/interface-sheet.md",
+      "source_sha256": "dc558cd357c6a7a099e74636279174a8e98e121b63767e0456ffbbed39461494",
+      "published_sha256": "dc558cd357c6a7a099e74636279174a8e98e121b63767e0456ffbbed39461494",
+      "changes": []
+    },
+    {
+      "path": "skills/coachbot/software-factory/templates/parity-ledger.md",
+      "source_sha256": "eb77c5cc997c05cce6c84fc7ba82f0ee17482c6881de56a7ecd5ea0831be46d8",
+      "published_sha256": "eb77c5cc997c05cce6c84fc7ba82f0ee17482c6881de56a7ecd5ea0831be46d8",
+      "changes": []
+    },
+    {
+      "path": "skills/coachbot/software-factory/templates/plan-doc.md",
+      "source_sha256": "623d4cb57736b8c495b29e98ae5fb96c9fe6b47e113d9f1ec8d6ffb8b7ffca74",
+      "published_sha256": "623d4cb57736b8c495b29e98ae5fb96c9fe6b47e113d9f1ec8d6ffb8b7ffca74",
+      "changes": []
+    },
+    {
+      "path": "skills/coachbot/software-factory/templates/progress.md",
+      "source_sha256": "29483f110e99de0874dd58305abc12389b3ca2c7e5a98a633d992107f01bc088",
+      "published_sha256": "d31a38d03484ba324f0fece7c319203d52d5fd2b5359743b745424a7c6d50165",
+      "changes": [
+        "Replaced whitespace-only list placeholders with explicit fill-in markers"
+      ]
+    },
+    {
+      "path": "skills/coachbot/software-factory/templates/qa-report.md",
+      "source_sha256": "3e10ef1ea036a692dd3cb93364d92253dc529d994cbf584f175a90608dabaff9",
+      "published_sha256": "3e10ef1ea036a692dd3cb93364d92253dc529d994cbf584f175a90608dabaff9",
+      "changes": []
+    },
+    {
+      "path": "skills/coachbot/software-factory/templates/test-plan.md",
+      "source_sha256": "f78fd9e453cfea7706522088c4804a90f2e4053888f66aebbf115c1222ba342c",
+      "published_sha256": "f78fd9e453cfea7706522088c4804a90f2e4053888f66aebbf115c1222ba342c",
+      "changes": []
+    },
+    {
+      "path": "skills/coachbot/thermo-nuclear-code-quality-review/SKILL.md",
+      "source_sha256": "596d91a5a5ae11e388ba43fd729aa6650a297d4570e55d8428ae8b93066a7f0d",
+      "published_sha256": "3475b849d4814d3d1f9387cc2eede44d04cb4e55aa804b3ec43a2cff678827cd",
+      "changes": [
+        "Added a publication/source note after the original frontmatter"
+      ]
+    },
+    {
+      "path": "skills/coachbot/verification-loop/SKILL.md",
+      "source_sha256": "ce3f947938f2d494ccd2fb140202bb7c2a873198316fdef696ce788f60c36a42",
+      "published_sha256": "4e6bec102e1cbd4d8f8d611fc73fa96a4d04f3328d3d096e245d03d3075ef6a5",
+      "changes": [
+        "Normalised private filesystem paths",
+        "Added a publication/source note after the original frontmatter"
+      ]
+    },
+    {
+      "path": "skills/coachbot/verification-loop/gates.sh",
+      "source_sha256": "7be67a28a96d036a0a6a13ccd61c22624f65afe9fae14a1e2e9cd5c4089ddf9b",
+      "published_sha256": "7be67a28a96d036a0a6a13ccd61c22624f65afe9fae14a1e2e9cd5c4089ddf9b",
+      "changes": []
+    },
+    {
+      "path": "skills/coachbot/verification-loop/references/gates-1-5.md",
+      "source_sha256": "737e9933178b0ff7edf9a15582f34fa245da2cf7422a32ad4b75102c4426ab86",
+      "published_sha256": "737e9933178b0ff7edf9a15582f34fa245da2cf7422a32ad4b75102c4426ab86",
+      "changes": []
+    },
+    {
+      "path": "skills/coachbot/verification-loop/references/gates-6-11.md",
+      "source_sha256": "cce12e3bf6a108867caa48044910e43c08666ec59e39e58fa0adce78df6450b3",
+      "published_sha256": "8b7c25cda14b491093d5263a726c479e7a133eb978ca2dae78be5ee41e7ea54a",
+      "changes": [
+        "Normalised private filesystem paths"
+      ]
+    },
+    {
+      "path": "skills/coachbot/verify-loop/SKILL.md",
+      "source_sha256": "a8eef5f0c55bfd42cee62dc5166cc36bd2662e9debba7da098f4820cf5b04b16",
+      "published_sha256": "f44342fe77a4c933c4d9434385355e2f676150c1dd28993da94740e0bb0cb5e2",
+      "changes": [
+        "Normalised private filesystem paths",
+        "Added a publication/source note after the original frontmatter"
+      ]
+    }
+  ],
+  "known_unbundled_links": [],
+  "source_code_fence_issues": [],
+  "runtime_dependencies": [
+    "Claude/Codex-specific plugins and agent definitions",
+    "Private repository instructions and configuration",
+    "Project CLIs, observability access and helper scripts referenced by the source",
+    "Dependencies and tool versions required by each selected skill"
+  ],
+  "licence_sources": {
+    "ponytail": {
+      "source": "https://github.com/DietrichGebert/ponytail/blob/main/LICENSE",
+      "blob_sha": "715d483338cea4365f0d91a27799cf61226d6bcf",
+      "repository": "DietrichGebert/ponytail"
+    }
+  },
+  "original_installations_modified": false,
+  "verification": {
+    "date": "2026-10-12",
+    "entrypoint_yaml_parsed": 15,
+    "python_syntax_checked": 0,
+    "shell_syntax_checked": 7,
+    "node_syntax_checked": 2,
+    "contract_guard_self_tests": {
+      "passed": 18,
+      "failed": 0
+    },
+    "parity_diff_self_tests": {
+      "passed": 9,
+      "failed": 0
+    },
+    "review_routing_cases_passed": 15,
+    "publication_checker_negative_probes": [
+      "credential pattern",
+      "changed exported file",
+      "undeclared file",
+      "missing local reference",
+      "private design-system path",
+      "catalogue path"
+    ],
+    "complete_workflow_runtime_verified": false,
+    "export_files_match_their_recorded_hashes": true,
+    "source_comparison_at_curation": {
+      "files_checked": 78,
+      "changed_since_original_export": [
+        "skills/coachbot/software-factory/references/doctrine/ci-cd-doctrine.md"
+      ],
+      "note": "The public files are a recorded snapshot. Cleanup does not write to installed sources."
+    }
+  },
+  "curation": {
+    "date": "2026-10-12",
+    "unique_skill_names": 14,
+    "reason": "User approved the core selection, requested removal of the full catalogue, and excluded the private design-system skill"
+  }
+}
